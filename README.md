@@ -1,6 +1,7 @@
-# collection-maps-example
-An assignment/task/example illustrating functionalities and usages provided by Map implementation class ie. HashMap in Java. 
+# collection-maps-example 
+```Github Pages URL``` <a href="https://mullanishah.github.io/collection-maps-example/">https://mullanishah.github.io/collection-maps-example/</a>
 
+<br>An assignment/task/example illustrating functionalities and usages provided by Map implementation class ie. HashMap in Java. 
 In a nutshell, Collection framework provides utility classes and interfaces that are readymade implementation of various data structures and algorithms. Whereas, Map interface implementation classes stores elements in key/value pair.
 
 In this example, I have tried to utilise capabilities and functions provided by HashMap class in the Collection framework. This is a plain old Core Java application without any database, threading or file handling functionalities; intended to keep foucs purely on Collection framework.
