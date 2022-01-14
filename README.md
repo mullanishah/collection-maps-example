@@ -5,7 +5,7 @@
 
 In a nutshell, Collection framework provides utility classes and interfaces that are readymade implementation of various data structures and algorithms. Whereas, Map interface implementation classes stores elements in key/value pair.
 
-In this example, I have tried to utilise capabilities and functions provided by HashMap class in the Collection framework. Here I have considered a imaginary Customer management system with features such as register, sort and unsubscribe customers.  This is a plain old Core Java application without any database, threading or file handling functionalities; intended to keep focus purely on Collection framework.
+In this example, I have tried to utilise capabilities and functions provided by HashMap class in the Collection framework. Here I have considered an imaginary Customer management system with features such as register, sort and unsubscribe customers.  This is a plain old Core Java application without any database, threading or file handling functionalities; intended to keep focus purely on Collection framework.
 
 In order to execute the application, run MainTester class from com.core.tester package. Upon program execution, user will be asked to select appropriate option from the list of Menus to perform following operations:
 |    |                                   | Map class method used                        |
